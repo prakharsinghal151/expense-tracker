@@ -46,6 +46,10 @@ http://localhost:5173/
 4. View total spent, remaining budget, and category-wise spending.
 5. Search, edit, or delete expenses when needed.
 
+## Live Demo
+
+https://prakhar-spendwise.vercel.app
+
 ## Project Structure
 
 ```txt
